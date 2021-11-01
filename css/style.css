@@ -18,8 +18,12 @@ body {
     height: 72px;
 }
 
+.h_120 {
+    height: 120px;
+}
+
 .h_500 {
-    height: 500px;
+    height: 450px;
 }
 
 /* ### color ### */
