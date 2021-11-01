@@ -154,3 +154,10 @@ img {
     width: 30%;
 }
 
+#plus {
+    padding: 5px 5px;
+    background-color: rgb(202, 200, 200);
+    color: rgb(41, 98, 255);
+    text-decoration: none;
+}
+
