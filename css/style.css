@@ -36,6 +36,14 @@ body {
     background-color: black;
 }
 
+.c_blue {
+    color: rgb(0, 110, 255);
+}
+
+.c_gray {
+    color: gray;
+}
+
 /* ### header ### */
 
 /* ### navbar ### */
