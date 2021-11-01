@@ -149,3 +149,8 @@ img {
     background-repeat: no-repeat;
 }
 
+.ps4_box {
+    display: inline-block;
+    width: 30%;
+}
+
