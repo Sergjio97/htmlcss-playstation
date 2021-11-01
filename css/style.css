@@ -6,6 +6,22 @@ body {
 
 /* ### height-width ### */
 
+img {
+    width: 100%;
+}
+
+.w_10 {
+    width: 10%;
+}
+
+.w_50 {
+    width: 40%;
+}
+
+.img_50 {
+    width: 50%;
+}
+
 .h_18 {
     height: 18px;
 }
@@ -85,5 +101,28 @@ body {
     background-image: url(../img/jumbo-bg.png);
     background-size: contain;
     background-repeat: no-repeat;
+}
+
+/* ### main ### */
+
+#info {
+    padding: 10px 10px;
+    background-color: rgb(41, 98, 255);
+    color: white;
+    text-decoration: none;
+}
+
+.card {
+    display: inline-block;
+    width: 30%;
+    border: none;
+    margin-right: 5px;
+}
+
+.card_md {
+    display: inline-block;
+    width: 18%;
+    border: none;
+    margin-right: 5px;
 }
 
