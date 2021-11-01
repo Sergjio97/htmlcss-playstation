@@ -52,6 +52,10 @@ img {
     background-color: black;
 }
 
+.bg_blue {
+    background-color: rgb(2, 2, 117);
+}
+
 .c_blue {
     color: rgb(0, 110, 255);
 }
@@ -158,6 +162,13 @@ img {
     padding: 5px 5px;
     background-color: rgb(202, 200, 200);
     color: rgb(41, 98, 255);
+    text-decoration: none;
+}
+
+#now {
+    padding: 5px 5px;
+    background-color: white;
+    color: black;
     text-decoration: none;
 }
 
