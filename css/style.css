@@ -18,8 +18,12 @@ body {
     height: 72px;
 }
 
-.h_120 {
-    height: 120px;
+.h_180 {
+    height: 180px;
+}
+
+.h_300 {
+    height: 300px;
 }
 
 .h_500 {
