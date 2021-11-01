@@ -1,1 +1,18 @@
 /* ### common ### */
+
+/* ### height-width ### */
+
+.h_18 {
+    height: 18px;
+}
+
+.h_36 {
+    height: 36px;
+}
+
+/* ### color ### */
+
+.bg_black {
+    background-color: black;
+}
+
