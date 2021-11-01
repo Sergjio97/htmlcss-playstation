@@ -1,5 +1,9 @@
 /* ### common ### */
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 /* ### height-width ### */
 
 .h_18 {
@@ -14,6 +18,10 @@
     height: 72px;
 }
 
+.h_500 {
+    height: 500px;
+}
+
 /* ### color ### */
 
 .bg_black {
@@ -23,6 +31,24 @@
 /* ### header ### */
 
 /* ### navbar ### */
+
+.nav_bottom li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.nav_bottom li a {
+    text-decoration: none;
+    color: black;
+}
+
+#accedi {
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: rgb(53, 52, 52);
+    color: white;
+}
+
 
 .hamburgher_box {
     width: 50px;
@@ -35,5 +61,13 @@
     width: 50%;
     border-top: 2px solid rgb(175, 175, 175);
     margin: auto;
+}
+
+/* ### jumbo ### */
+
+.jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
