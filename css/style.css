@@ -35,7 +35,7 @@ img {
 }
 
 .h_180 {
-    height: 180px;
+    height: 130px;
 }
 
 .h_300 {
@@ -58,6 +58,10 @@ img {
 
 .c_gray {
     color: gray;
+}
+
+.c_white {
+    color: white;
 }
 
 /* ### header ### */
@@ -124,5 +128,24 @@ img {
     width: 18%;
     border: none;
     margin-right: 5px;
+}
+
+.card_lg {
+    display: inline-block;
+    width: 15%;
+    border: none;
+    margin-right: 5px;
+}
+
+.card_45 {
+    display: inline-block;
+    width: 45%;
+    border: none;
+}
+
+.it_takes_two {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
