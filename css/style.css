@@ -50,6 +50,10 @@ img {
     width: 70%;
 }
 
+.w_100 {
+    width: 100%;
+}
+
 .img_50 {
     width: 50%;
 }
@@ -143,8 +147,14 @@ img {
 
 .jumbo {
     background-image: url(../img/jumbo-bg.png);
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#acquista {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
 }
 
 /* ### main ### */
