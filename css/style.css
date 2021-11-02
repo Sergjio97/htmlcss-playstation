@@ -8,6 +8,10 @@ body {
     font-size: 11px;
 }
 
+.f_15 {
+    font-size: 15px;
+}
+
 /* ### height-width ### */
 
 img {
@@ -32,6 +36,10 @@ img {
 
 .w_30 {
     width: 30%;
+}
+
+.w_35 {
+    width: 35%;
 }
 
 .w_40 {
@@ -152,6 +160,7 @@ img {
 }
 
 #acquista {
+    padding: 5px;
     background-color: orange;
     color: white;
     text-decoration: none;
