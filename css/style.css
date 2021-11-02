@@ -220,8 +220,8 @@ img {
 
 .it_takes_two {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .ps4_box {
