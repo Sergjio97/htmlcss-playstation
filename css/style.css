@@ -4,6 +4,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.f_11 {
+    font-size: 11px;
+}
+
 /* ### height-width ### */
 
 img {
@@ -12,6 +16,10 @@ img {
 
 .w_10 {
     width: 10%;
+}
+
+.w_20 {
+    width: 20%;
 }
 
 .w_50 {
@@ -43,7 +51,11 @@ img {
 }
 
 .h_500 {
-    height: 450px;
+    height: 500px;
+}
+
+.h_700 {
+    height: 700px;
 }
 
 /* ### color ### */
@@ -170,5 +182,11 @@ img {
     background-color: white;
     color: black;
     text-decoration: none;
+}
+
+/* ### footer ### */
+
+footer ul li {
+    list-style: none;
 }
 
